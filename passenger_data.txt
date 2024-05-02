@@ -1,0 +1,11 @@
+10
+Christopher Johnson US 33 19.8
+Alexandra Thompson UK 27 18.3
+Maximilian Muller Germany 45 26.5
+Sophia Davis Canada 29 21.6
+Mohammed Ali Egypt 37 23.2
+Isabella Garcia Mexico 31 20.1
+Alexander Petrov Russia 38 23.9
+Chloe Dupont France 26 17.4
+Hiroshi Tanaka Japan 42 24.6
+Mia Chen China 30 19.9
